@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![woon7650's GitHub stats](https://github-readme-stats.vercel.app/api?username=woon7650&show_icons=true&theme=radical&count_private = true)
+![woon7650's GitHub stats](https://github-readme-stats.vercel.app/api?username=woon7650&show_icons=true&theme=transparent)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woon7650&layout=compact)
