@@ -42,12 +42,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sourcetree-0052cc?style=flat-square&logo=Sourcetree&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>&nbsp
 </p>
     
 <h3 align="center">Conatact</h3>
 <p align="center">
   <a href="https://www.instagram.com/9__nn0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:woon7650@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:woon7650@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/근영-김-1832452a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
